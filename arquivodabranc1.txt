@@ -1,1 +1,2 @@
 olá eu sou um arquivo de texto numa branch diferente e escrita errada!!
+Eu sou uma outra linha diferente que só serve pra provar que fiz 2 commits!
